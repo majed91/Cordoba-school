@@ -1,0 +1,21 @@
+nav{
+    font-size: 15px;
+}
+form{
+    font-size: 12px;
+}
+img{
+    width: 20px;
+    height: 20px;
+    left: 5px
+}
+.d-flex{ margin-left: 15px;
+    width: 600px;
+}
+nav{
+  
+    background-color: rgba(206, 202, 146, 0.5);
+}
+.navbar-brand{
+    font-size: 15px;
+}

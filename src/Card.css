@@ -1,0 +1,14 @@
+.card{
+    width: 250px;
+    margin-right: 20px;
+}
+.cardo{
+    margin-top: 20px;
+}
+.card-img-top{
+    height: auto;
+}
+
+.btn btn-primary{
+    font-size: 12px;
+}

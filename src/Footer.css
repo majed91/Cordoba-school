@@ -1,0 +1,48 @@
+
+
+#footer{
+    background-color: rgb(36, 34, 34);
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+    padding: 20px;
+}
+#foo2{
+  text-align: right;
+}
+.img1,.img2,.img3,.img4{
+    width: 140px;
+    height: 120px;
+    border-radius: 50px;
+    margin :64px;
+}
+.img1:hover{
+    width: 150;
+    height: 120;
+    box-shadow: 1px 1px white;
+}
+.img2:hover{
+    width: 150;
+    height: 120;
+    box-shadow: 1px 1px white;
+} 
+.img3:hover{
+    width: 150;
+    height: 120;
+    box-shadow: 1px 1px white;
+} 
+.img4:hover{
+    width: 150;
+    height: 120;
+    box-shadow: 1px 1px white;
+}  
+#part{
+    color: floralwhite;
+}
+#har{
+    color: floralwhite;
+}
+#con{
+    text-align: center;
+    color: azure;
+}

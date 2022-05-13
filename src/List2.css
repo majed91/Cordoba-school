@@ -1,0 +1,15 @@
+#list{
+    float: left;
+    width: 20%;
+    opacity: 0.8;
+}
+.list-group-item{
+    font-size: 15px;
+   
+    padding: 21px;
+    background-color: rgb(33, 65, 65);
+    font-weight: bold;
+}
+.list-group-item:hover{
+    background-color: rgb(215, 243, 243);
+}

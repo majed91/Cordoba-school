@@ -1,0 +1,33 @@
+#coment{
+    padding: 30px;
+    margin: 30px;
+}
+h3{
+    text-align: center;
+    color: cornsilk;
+}
+#btns{
+    font-size: 20px;
+    padding: 5px;
+    background-color: darkgreen;
+    border-radius: 10px;
+    margin-left: 80px;
+}
+#text1{
+    background-color: blanchedalmond;
+    width: 30%;
+    height: 200px;
+    padding: 20px;
+    float: right;
+    font-weight: bold;
+    text-decoration: underline;
+    border-radius: 10px;
+}
+#text{
+    background-color: blanchedalmond;
+    width: 50%;
+    height: 200px;
+    padding: 20px;
+    border-radius: 10px;
+
+}
